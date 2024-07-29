@@ -1,3 +1,5 @@
+https://anuragkumarthakur1.github.io/Password-Generator/
+
 # Password Generator
 
 This project is a simple web application that generates strong, secure passwords. It is built using HTML, CSS, and JavaScript.
@@ -17,7 +19,7 @@ To use the password generator:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/strong-password-generator.git
+   https://anuragkumarthakur1.github.io/Password-Generator/
    ```
    
 2. Open `index.html` in your web browser.
